@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-042KHVBR" failures="0" tests="4" name="com.gmail.testcases.GmailLoginTestcases" time="16.837" errors="0" timestamp="25 Nov 2019 21:14:05 GMT">
+  <testcase classname="com.gmail.testcases.GmailLoginTestcases" name="verifyUserNameCase1" time="0.594"/>
+  <testcase classname="com.gmail.testcases.GmailLoginTestcases" name="verifyUserNameCase2" time="0.571"/>
+  <testcase classname="com.gmail.testcases.GmailLoginTestcases" name="verifyPasswordCase1" time="0.538"/>
+  <testcase classname="com.gmail.testcases.GmailLoginTestcases" name="verifyPasswordCase2" time="0.27"/>
+</testsuite>
