@@ -13,6 +13,6 @@ public class SendEmailPage {
 	 this.driver = driver;
  }
  
- @FindBy(id="") WebElement composeelement;
+ @FindBy(xpath="") WebElement composeelement;
 
 }
